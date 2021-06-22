@@ -1,7 +1,5 @@
 ﻿using Auctions.Domain.ValueObjects;
 using FluentAssertions;
-using System.Collections.Generic;
-using System.Linq;
 using Xunit;
 
 namespace Auctions.Domain.ValueObjectsTests
